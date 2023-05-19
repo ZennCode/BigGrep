@@ -8,4 +8,4 @@ I try to do a Grep replacement tool and i hope no one will use this ^^
 -   [x] search without case sensetive
 -   [x] help menue with clap
 -   [x] get the stdin content with atty
--   [ ] search througt multiple files with multi thread
+-   [ ] search througth multiple files with multi thread
